@@ -26,7 +26,7 @@ body {
   text-align: center;
   font-size: 18px;
   font-weight: 400;
-  margin-bottom: 50px;
+  margin-bottom: 65px;
 }
 .container-hero a {
   color: #ffffff;
@@ -65,10 +65,31 @@ body {
 }
 .border-option {
   color: #ff5959;
+  background-color: #ffeeee;
   margin-top: 25px;
   margin-left: 10px;
   margin-bottom: 50px;
   padding: 20px 28px 20px 28px;
   border: 3px solid #ff5959;
   border-radius: 5px;
+}
+.donate-now {
+  height: 200px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.donate-now input {
+  text-align: center;
+  width: 645px;
+  border-top: none;
+  border-left: none;
+  border-bottom: 1px solid #dadada;
+  border-right: none;
+  outline: none;
+  margin-bottom: 50px;
+  padding-bottom: 10px;
+}
+.donate-now input::placeholder {
+  color: #b3b3b3;
 }
