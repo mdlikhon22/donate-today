@@ -73,13 +73,13 @@ body {
   border: 3px solid #ff5959;
   border-radius: 5px;
 }
-.donate-now {
+.donate-input {
   height: 200px;
   display: flex;
   align-items: center;
   justify-content: center;
 }
-.donate-now input {
+.donate-input input {
   text-align: center;
   width: 645px;
   border-top: none;
@@ -90,6 +90,18 @@ body {
   margin-bottom: 50px;
   padding-bottom: 10px;
 }
-.donate-now input::placeholder {
+.donate-input input::placeholder {
   color: #b3b3b3;
+}
+.donate-now {
+  text-align: center;
+  margin-top: -80px;
+}
+.donate-now a {
+  color: #ffffff;
+  font-weight: 400;
+  text-decoration: none;
+  background-color: #ff5959;
+  padding: 15px 30px 15px 30px;
+  border-radius: 5px;
 }
