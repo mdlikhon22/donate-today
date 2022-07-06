@@ -30,8 +30,9 @@ body {
 }
 .container-hero a {
   color: #ffffff;
-  background-color: #ff5959;
+  font-weight: 400;
   text-decoration: none;
+  background-color: #ff5959;
   padding: 15px 30px 15px 30px;
   border-radius: 5px;
 }
