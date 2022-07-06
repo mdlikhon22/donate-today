@@ -155,9 +155,20 @@ body {
   color: #707070;
 }
 .donaton-plan {
-  background-color: red;
   margin-top: 20px;
   margin-left: 20px;
   margin-bottom: 50px;
   padding: 40px 40px 40px 40px;
+}
+.donation-plan-1 {
+  background-color: #4f9da621;
+  border-radius: 5px;
+}
+.donation-plan-2 {
+  background-color: #ff595921;
+  border-radius: 5px;
+}
+.donation-plan-3 {
+  background-color: #fff4d6;
+  border-radius: 5px;
 }
