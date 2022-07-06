@@ -281,3 +281,16 @@ body {
   background-color: #ff5959;
   padding: 12px 30px 14px 30px;
 }
+.footer-text {
+  color: #ff5959;
+  font-size: 18px;
+  font-family: "Lobster", cursive;
+  text-align: center;
+}
+.footer {
+  color: #d9dbe1;
+  text-align: center;
+  font-weight: 200;
+  background-color: #0b0d17;
+  padding: 20px 40px 20px 40px;
+}
